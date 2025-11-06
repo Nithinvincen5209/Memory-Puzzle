@@ -2,8 +2,7 @@
 
 A clean and polished 2D card-matching game built in Unity. This project tests the player's memory against a time limit and a limited number of attempts.
 
----
-         <img width="600" height="600" alt="Gemini_Generated_Image_8rbrv58rbrv58rbr (1)" src="https://github.com/user-attachments/assets/ba9df223-7660-44ea-855d-44a84a4e7858" />
+--  <img width="600" height="600" alt="Gemini_Generated_Image_8rbrv58rbrv58rbr (1)" src="https://github.com/user-attachments/assets/ba9df223-7660-44ea-855d-44a84a4e7858" />
 
 ### Click to Watch Gameplay
 
