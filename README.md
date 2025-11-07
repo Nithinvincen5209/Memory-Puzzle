@@ -6,8 +6,7 @@ A clean and polished 2D card-matching game built in Unity. This project tests th
 
 ### Click to Watch Gameplay
 
-[![Watch the Gameplay Video](https://youtu.be/KH9wivewd-0?si=2TaGYwQogYeJM69z)
-
+[![Watch the Gameplay Video](https://img.youtube.com/vi/KH9wivewd-0/hqdefault.jpg)](https://www.youtube.com/watch?v=KH9wivewd-0)
 ---
 
 ## 🚀 About This Project
