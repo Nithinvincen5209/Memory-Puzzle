@@ -33,6 +33,13 @@ This project demonstrates my ability to create a complete and polished game loop
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+## 💻 Built With
+
+* **Engine:** Unity
+* **Language:** C#
+* **Tools:** Visual Studio, Wwise
+
+
 ## 🎮 Controls
 
 * **Select Card:** [Left Click]
