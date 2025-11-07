@@ -4,9 +4,7 @@ A clean and polished 2D card-matching game built in Unity. This project tests th
 
 --  <img width="600" height="600" alt="Gemini_Generated_Image_8rbrv58rbrv58rbr (1)" src="https://github.com/user-attachments/assets/ba9df223-7660-44ea-855d-44a84a4e7858" />
 
-### Click to Watch Gameplay
 
-[![Watch the Gameplay Video](https://img.youtube.com/vi/KH9wivewd-0/hqdefault.jpg)](https://www.youtube.com/watch?v=KH9wivewd-0)
 ---
 
 ## 🚀 About This Project
@@ -14,6 +12,11 @@ A clean and polished 2D card-matching game built in Unity. This project tests th
 Memory Puzzle is a classic 2D game that focuses on strong UI/UX, game state management, and event-driven programming. The player is challenged to find all matching pairs on a **4x4 grid** within a set time limit and with only **5 incorrect attempts**.
 
 This project demonstrates my ability to create a complete and polished game loop, integrating UI, animations, and audio feedback to create a "juicy" and satisfying player experience.
+
+### Click to Watch Gameplay
+
+[![Watch the Gameplay Video](https://img.youtube.com/vi/KH9wivewd-0/hqdefault.jpg)](https://www.youtube.com/watch?v=KH9wivewd-0)
+
 
 ## ✨ Key Features
 
